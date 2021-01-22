@@ -1,0 +1,42 @@
+img {
+    width: 200px;
+}
+
+.header {
+    text-align: center;
+    background-color: lightgreen;
+}
+
+.mainSection {
+    display: flex;
+    justify-content: space-between;
+    background-color: purple;
+    color: white;
+}
+
+.breakfastSection {
+    border: 5px groove deepskyblue;
+    text-align: center;
+}
+
+.lunchSection {
+    border: 5px groove deepskyblue;
+    text-align: center;
+}
+
+.dinnerSection {
+    border: 5px groove deepskyblue;
+    text-align: center;
+}
+
+h1, h2 {
+    font-family: 'Potta One', cursive;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+}
+
+a {
+    color: lightblue;
+}
